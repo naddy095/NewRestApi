@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nadeem\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\workspaces\android studio\carousal\NewRestApi\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-7822ec6d0bf3cca0f9c3e1f35697eeae5bd139ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\nadeem\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\workspaces\android studio\carousal\NewRestApi\app\build\intermediates\pre-dexed\debug\gson-2.3.1-4b08cb8319747f9761e8050ac1fd063b6ca0ccce.jar" />
+    </item>
+
+</items>
